@@ -1,0 +1,53 @@
+[
+  {
+    "question": "George Washington was the first president of the United States.",
+    "cloze": "George Washington"
+  },
+
+  {
+    "question": "The Liberty Bell is located in Philadelphia?",
+    "cloze": "Bell"
+  },
+    {
+    "question": "The city of Trenton is capital of New Jersey.",
+   "cloze": "Trenton"
+  },
+    {
+    "question": "The President lives in the White House.",
+    "cloze": "President"
+  },
+    {
+    "question": "The Declaration of Independence was signed in 1776.",
+    "cloze": "Declaration of Independence"
+  },
+    {
+    "question": "The Statue of Liberty was a gift from France",
+    "cloze": "Statue"
+  },
+    {
+    "question": "The Statue of Liberty was a gift from France",
+    "cloze": "Statue"
+  },
+    {
+    "question": "Jefferson Davis was the President of the Confederate States of America",
+    "cloze": "Jefferson Davis"
+  },
+    {
+    "question": "Puerto Rico is considered a US territory.",
+    "cloze": "territory"
+  },
+    {
+    "question": "Ronald Regan was the governor of California, before becoming President.",
+    "cloze": "California"
+  },
+    {
+    "question": "Women got the right to vote in 1920.",
+    "cloze": "Women"
+  },
+    {
+    "question": "Ben Franklin was one of the original Founding Fathers that never served as President",
+    "cloze": "Founding Fathers"
+  }
+
+]
+
